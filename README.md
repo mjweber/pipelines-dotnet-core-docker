@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/mjweber/Docker-example/_apis/build/status/mjweber.pipelines-dotnet-core-docker?branchName=master)](https://dev.azure.com/mjweber/Docker-example/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
